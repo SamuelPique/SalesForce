@@ -3,6 +3,9 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
+            "c/accountListMap": [
+                "accountListMap/accountListMap.js"
+            ],
             "c/accountMap": [
                 "accountMap/accountMap.js"
             ],
@@ -12,11 +15,8 @@
             "c/ldsUtils": [
                 "ldsUtils/ldsUtils.js"
             ],
-            "c/AccountListMap": [
-                "AccountListMap/AccountListMap.js"
-            ],
-            "c/accountListMap": [
-                "accountListMap/accountListMap.js"
+            "c/accountListLocator": [
+                "accountListLocator/accountListLocator.js"
             ]
         }
     },
